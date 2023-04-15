@@ -6,6 +6,11 @@ This is a Python script that utilizes the TMDb API to download the posters of mo
 * Python 3.x
 * requests module
 * openpyxl module
+* re module
+
+## Installation
+You can install the required modules by running the following command in your terminal:
+```pip install requests openpyxl ```
 
 ## Usage
 1. Obtain an API key from TMDb.
