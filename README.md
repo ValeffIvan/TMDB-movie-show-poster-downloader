@@ -21,8 +21,7 @@ You can install the required modules by running the following command in your te
 
 ```python Movie-Show_Poster_Downloader.py```
 
-6. The downloaded posters will be saved in the same directory as the script.
-
 ## Notes
+* The downloaded posters will be saved in the same directory as the script.
 * The script searches for posters based on the exact title of the movie/show, so make sure that the titles in the Excel file match the titles in TMDb.
 * If a poster is not found for a movie/show, the script will print a message indicating so.
