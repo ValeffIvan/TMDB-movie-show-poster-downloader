@@ -14,7 +14,7 @@ This is a Python script that utilizes the TMDb API to download the posters of mo
 4. Set the API key in the `api_key` variable.
 5. Run the script using the following command:
 
-python tmdb_poster_downloader.py
+```python Movie-Show_Poster_Downloader.py```
 
 6. The downloaded posters will be saved in the same directory as the script.
 
