@@ -9,7 +9,7 @@ base_url = "https://api.themoviedb.org/3/"
 api_key = ""
 
 # Cargar el archivo de Excel que contiene la lista de películas
-workbook = openpyxl.load_workbook("Listado de películas.xlsx")
+workbook = openpyxl.load_workbook("---.xlsx")
 
 worksheet = workbook.active
 
